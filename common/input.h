@@ -1,0 +1,13 @@
+#ifndef INPUT_H
+#define INPUT_H
+
+enum KeyPressSurfaces {
+	KEY_PRESS_DEFAULT,
+	KEY_PRESS_UP,
+	KEY_PRESS_DOWN,
+	KEY_PRESS_LEFT,
+	KEY_PRESS_RIGHT,
+	KEY_PRESS_TOTAL
+};
+
+#endif /* INPUT_H */
